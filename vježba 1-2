@@ -1,1 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Bernarda</ime>
+    <prezime>Vidović</prezime>
+    <jmbg>0123456789</jmbg>
+    <datumRodjenja>2000-00-00</datumRodjenja>
+    <godinaStudija>3</godinaStudija>
 
+    <kontakt>
+        <email>bvidovic@tvz.hr</email>
+        <telefon>+385912345678</telefon>
+    </kontakt>
+
+    <kolegiji>
+        <kolegij>
+            <naziv>Oblikovanje web stranica</naziv>
+            <profesor>dr.sc. Maja Turčić</profesor>
+            <ects>6</ects>
+        </kolegij>
+        <kolegij>
+            <naziv>Praktikum iz dizajna</naziv>
+            <profesor>mag.des. Ulla Leiner Maksan</profesor>
+            <ects>5</ects>
+        </kolegij>
+        <kolegij>
+            <naziv>Interaktivno programiranje na webu</naziv>
+            <profesor>dipl.ing. Ognjen Staničić</profesor>
+            <ects>4</ects>
+        </kolegij>
+    </kolegiji>
+</student>
